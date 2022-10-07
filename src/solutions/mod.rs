@@ -1,3 +1,22 @@
 // mod p118_pascals_triangle;
 mod p217_contains_duplicate;
 mod p167_two_sum_ii;
+// mod p206_reverse_linked_list;
+// mod p234_palindrome_linked_list;
+// mod p336_palindrome_pairs;
+mod p985_sum_of_even_numbers_after_queries;
+mod p123_best_time_to_buy_stock_iii;
+mod p15_three_sum;
+mod p01_two_sum;
+mod p11_container_with_most_water;
+mod p42_trap_water;
+mod p41_first_missing_positive;
+mod p1011_ship_packages;
+mod p53_max_subarray;
+mod p268_missing_number;
+mod p88_merge;
+mod p2149_rearrange_array;
+mod p775_global_and_local_inversions;
+mod p75_sort_colors;
+mod p724_find_pivot_index;
+
