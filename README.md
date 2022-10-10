@@ -7,6 +7,7 @@
 </p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![](https://img.shields.io/badge/%3E-leetcode-green.svg)
 ![Language](https://img.shields.io/badge/language-Rust-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
