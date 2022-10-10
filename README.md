@@ -20,7 +20,7 @@ A repo for all the leetcode problems that I have solved using rust-lang. Note th
 
 ## Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/qberg?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/qberg?theme=dark)
 
 ## Problems
 
