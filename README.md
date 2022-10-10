@@ -26,4 +26,4 @@ A repo for all the leetcode problems that I have solved using rust-lang. Note th
 
 |  #  |                Title              | Solution |         Quick notes          | Analysis | Difficulty | 
 | :-: | :-------------------------------: | :------: | :--------------------------: | :------: | :--------: |
-| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [Rust](https://github.com/qberg/leetcode-rust) | Use `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust) | Hard |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [Rust](https://github.com/qberg/leetcode-rust) | Use `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust/blob/master/notes/0920_number_of_music_playlists.md) | Hard |
