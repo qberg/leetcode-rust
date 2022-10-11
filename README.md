@@ -12,14 +12,13 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
 
-
-> *Polynomial time is great. OK? Exponential time is bad. And infinite time gets you fired.* 
-> 
-> *-- Prof. Srini Devadas*
-
 A repo for all the leetcode problems that I have solved using rust-lang. Note that the solutions might not be as rust idiomatic as they could be for I have solved them while beginning to explore rust world. 
 
-## Stats
+> *Polynomial time is great. OK? Exponential time is bad. And infinite time gets you fired.* 
+>                                                                                            
+> *-- Prof. Srini Devadas*
+
+## Stats 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/qberg?theme=dark)
 
