@@ -19,4 +19,13 @@ mod p2149_rearrange_array;
 mod p775_global_and_local_inversions;
 mod p75_sort_colors;
 mod p724_find_pivot_index;
-
+mod p1299_replace_elements;
+mod p1419_minimum_number_of_frogs_croaking;
+mod p179_largest_number;
+mod p231_power_of_two;
+mod p0326_power_of_three;
+mod p0342_power_of_four;
+mod p0920_number_of_music_playlists;
+mod p2035_minimum_difference;
+mod p0416_partition_equal_subset_sum;
+mod p0698_can_partition_k_subsets;
