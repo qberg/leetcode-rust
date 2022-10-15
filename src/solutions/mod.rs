@@ -29,3 +29,5 @@ mod p0920_number_of_music_playlists;
 mod p2035_minimum_difference;
 mod p0416_partition_equal_subset_sum;
 mod p0698_can_partition_k_subsets;
+mod p0162_find_peak_element;
+
