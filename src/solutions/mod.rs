@@ -30,4 +30,7 @@ mod p2035_minimum_difference;
 mod p0416_partition_equal_subset_sum;
 mod p0698_can_partition_k_subsets;
 mod p0162_find_peak_element;
+mod p0064_minimum_path_sum;
+mod p0120_triangle;
+mod p0174_dungeon_game;
 
