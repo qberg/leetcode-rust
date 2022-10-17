@@ -32,22 +32,20 @@ A repo for all the leetcode problems that I have solved using rust-lang. Note th
 
 ### Medium
 
-|  #  |                Title                            | Solution |         Quick notes          | Analysis | Complexity | 
-| :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :--------: |
-| 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0064_minimum_path_sum.rs) | Use `dynamic programming` to find the minimum path among all possible paths before the current state and then add the value for the current state. | | Medium |
-| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0120_triangle.rs) | `Dynamic programming` pattern of finding the minimum path similar to p64. | | Medium |
-| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/https://leetcode.com/problems/find-peak-element/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0162_find_peak_element.rs) | Use `binary search` with a left and right index. | | Medium | 
-| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0416_partition_equal_subset_sum.rs) | `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust/blob/master/notes/p0416_partition_equal_subset_sum.md) | Medium |
-
+|  #  |                Title                            | Solution |         Quick notes          | Analysis | Time | Space  
+| :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :--: | :--: |
+| 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0064_minimum_path_sum.rs) | Use `dynamic programming` to find the minimum path among all possible paths before the current state and then add the value for the current state. | | Medium | | 
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0120_triangle.rs) | `Dynamic programming` pattern of finding the minimum path similar to p64. | | Medium | |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/https://leetcode.com/problems/find-peak-element/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0162_find_peak_element.rs) | Use `binary search` with a left and right index. | | Medium || 
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0416_partition_equal_subset_sum.rs) | `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust/blob/master/notes/p0416_partition_equal_subset_sum.md) | Medium | |
 
 ### Hard
 
-|  #  |                Title                            | Solution |         Quick notes          | Analysis | Complexity | 
-| :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :--------: |
-| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0920_number_of_music_playlists.rs) | `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust/blob/master/notes/p0920_number_of_music_playlists.md) | Hard |
-| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0174_dungeon_game.rs) | `Dynamic programming` pattern similar to p64. | | Hard |
-
-
+|  #  |                Title                            | Solution |         Quick notes          | Analysis | Time | Space |
+| :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :--: | :--: |
+| 51  | [N-Queens](https://leetcode.com/problems/n-queens/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0051_solve_n_queens.rs) | `Backtracking` | |  |  |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0174_dungeon_game.rs) | `Dynamic programming` pattern similar to p64. | | Hard | |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0920_number_of_music_playlists.rs) | `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust/blob/master/notes/p0920_number_of_music_playlists.md) | Hard | |
 
 
 
