@@ -43,7 +43,8 @@ A repo for all the leetcode problems that I have solved using rust-lang. Note th
 
 |  #  |                Title                            | Solution |         Quick notes          | Analysis | Time | Space |
 | :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :--: | :--: |
-| 51  | [N-Queens](https://leetcode.com/problems/n-queens/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0051_solve_n_queens.rs) | `Backtracking` | |  |  |
+| 51  | [N-Queens - II](https://leetcode.com/problems/n-queens-ii/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0052_total_n_queens.rs) | `Backtracking` | |  |  |
+| 52  | [N-Queens](https://leetcode.com/problems/n-queens/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0051_solve_n_queens.rs) | `Backtracking` | |  |  |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0174_dungeon_game.rs) | `Dynamic programming` pattern similar to p64. | | Hard | |
 | 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p0920_number_of_music_playlists.rs) | `Dynamic Programming` | [:memo:](https://github.com/qberg/leetcode-rust/blob/master/notes/p0920_number_of_music_playlists.md) | Hard | |
 
