@@ -25,9 +25,9 @@ A repo for all the leetcode problems that I have solved using rust-lang. Note th
 ## Problems
 ### Easy 
 
-|  #  |                Title                            | Solution |         Quick notes          | Analysis | Time Complexity | Space Complexity | 
-| :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :----: | :----: |
-| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p1832_check_if_pangram.rs) | Use a `Hash Set` to keep track of the characters seen.| |`O(n)` | `O(1)`|
+|  #  |                Title                            | Solution |         Quick notes          | Analysis | Complexity | 
+| :-: | :---------------------------------------------: | :------: | :--------------------------: | :------: | :--------: |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Rust](https://github.com/qberg/leetcode-rust/blob/master/src/solutions/p1832_check_if_pangram.rs) | Use a `Hash Set` to keep track of the characters seen.| | Time: `O(n)` <br>Space: `O(1)`<br/> |
 
 
 ### Medium
