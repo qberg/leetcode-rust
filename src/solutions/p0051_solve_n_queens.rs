@@ -27,7 +27,7 @@ impl Solution {
             let row = n - queens_rem;
             if Solution::is_valid(&board, n, row, col) {
                 board[row][col] = 'Q';
-                Solution::place_queens(&mut board, n, queens_rem-1, &mut res);
+                Solution::place_queens(board, n, queens_rem-1, res);
                 board[row][col] = '.';
             }
         }
