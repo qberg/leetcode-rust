@@ -87,4 +87,28 @@ impl Solution {
 }
 
 
+#[cfg(test)]
+mod tests {
+    use super::*;
 
+    #[test]
+    fn test_65 () {
+        let s = "0".to_string();
+        assert_eq!(
+            Solution::is_number(s),
+            true
+        );
+        
+        let s = ".".to_string();
+        assert_eq!(
+            Solution::is_number(s),
+            false
+        );
+
+        let s = "+.8".to_string();
+        assert_eq!(
+            Solution::is_number(s),
+            true
+        );
+    }
+}
